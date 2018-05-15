@@ -1,5 +1,14 @@
 {
   "posts": [
-  { "id": 1, "name": "Leanne Graham", "username": "Bret", "email": "Sincere@april.biz" }
-]
+    { "id": 1, "name": "Leanne Graham", "username": "Bret", "email": "Sincere@april.biz" },
+    { "id": 1, "name": "Leanne Graham", "username": "Bret", "email": "Sincere@april.biz" },
+    { "id": 1, "name": "Leanne Graham", "username": "Bret", "email": "Sincere@april.biz" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
