@@ -1,7 +1,7 @@
 {
-  "posts": [
-    { "id": 1, "name": "Leanne Graham", "username": "Bret", "email": "Sincere@april.biz" },
-    { "id": 1, "name": "Leanne Graham", "username": "Bret", "email": "Sincere@april.biz" },
+  "users": [
+    { "id": 1, "name": "Abdullah Sultan", "username": "GuyDoom", "email": "Sincere@april.biz" },
+    { "id": 1, "name": "Selena", "username": "Sel", "email": "Sincere@april.biz" },
     { "id": 1, "name": "Leanne Graham", "username": "Bret", "email": "Sincere@april.biz" }
   ],
   "comments": [
